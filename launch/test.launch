@@ -1,0 +1,4 @@
+<launch>
+	<node name="test" pkg="feedback_linear_control" type="test_measurment_pub.py" output="screen" ns="jackal_T"/>
+
+</launch>
